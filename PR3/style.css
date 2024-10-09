@@ -1,0 +1,17 @@
+.action button{
+    background-color: rgb(0, 119, 255);
+    border-radius: 10px;
+    border: rgb(0, 119, 255);
+}
+
+.action p{
+    color: white;
+}
+
+.page1{
+    margin: 100px;
+    padding: 100px;
+    border: 1px, solid,  rgb(0, 119, 255);
+    border-radius: 10px;
+
+}
